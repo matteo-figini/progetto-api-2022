@@ -1,7 +1,7 @@
 # Progetto API 2022
 Progetto di Prova Finale del corso di Algoritmi e Principi dell'Informatica (A. A. 2021-2022), Politecnico di Milano
 
-L'obiettivo del progetto di quest'anno è di realizzare un sistema che, al suo cuore, controlla la corrispondenza tra le lettere di 2 parole di ugual lunghezza.
+L'obiettivo del progetto è di realizzare un sistema che, al suo cuore, controlla la corrispondenza tra le lettere di 2 parole di ugual lunghezza.
 Le parole sono intese come sequenze di simboli che possono essere caratteri alfabetici minuscoli (a-z) o maiuscoli (A-Z), cifre numeriche (0-9), oppure i simboli - (trattino) e _ ("underscore")
 (Esempio di parola di 20 simboli: djHD1af9fj7g__l-ssOP).
 
